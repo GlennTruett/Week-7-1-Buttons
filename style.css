@@ -1,0 +1,9 @@
+#blinkText {
+    color: #2dbe5d;
+    transition: 0.5s;
+}
+
+body{
+    background-image: linear-gradient(toright,white,#2eacd4);
+
+}
